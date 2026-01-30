@@ -51,14 +51,3 @@ Successfully built and calibrated a functional line follower robot, gaining real
 - Embedded C / Arduino-style programming  
 
 ---
-
-## Project Status
-
-✅ Completed workshop prototype  
-🔧 Fully functional line-following robot  
-
----
-
-## Acknowledgment
-
-Thanks to the Nitte Robotics Club mentors and teammates for guidance and collaboration during the workshop.
